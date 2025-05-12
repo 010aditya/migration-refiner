@@ -1,4 +1,4 @@
-# Migration Refiner (Silver Bullet Edition)
+# Migration Refiner 
 
 🚀 An intelligent, agent-based tool that refines partially migrated Java legacy systems (EJB, Struts, JSP, iBatis) into production-ready Spring Boot code.
 
